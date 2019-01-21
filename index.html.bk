@@ -1,0 +1,1253 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><!-- Mobile Metas -->
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>INNOVATE 2018</title>
+    <meta name="description" content=" Website" /><!--Desc-->
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/><!--browser icon-->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/><!--browser icon-->
+    <link rel="apple-touch-icon-precomposed" href="favicon.png">
+    <!--icons style-->
+    <link rel="stylesheet" href="fonts/icons/style.css">
+    <!--website style-->
+    <link rel="stylesheet" href="css/style.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+
+</head>
+
+
+  <body data-spy="scroll" data-target="#scrollnav">
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=143457402527274&autoLogAppEvents=1';
+      fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-112810960-1"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-112810960-1');
+  </script>
+
+
+  <!-- Google Code for Remarketing Tag -->
+  <!--------------------------------------------------
+  Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+  --------------------------------------------------->
+  <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 820849501;
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+  </script>
+  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+  </script>
+  <noscript>
+    <div style="display:inline;">
+      <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/820849501/?guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+          n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+          if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+          n.queue=[];t=b.createElement(e);t.async=!0;
+          t.src=v;s=b.getElementsByTagName(e)[0];
+          s.parentNode.insertBefore(t,s)}(window, document,'script',
+          'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '675617172825949');
+      fbq('track', 'PageView');
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+                 src="https://www.facebook.com/tr?id=675617172825949&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+  <!--
+  Start of DoubleClick Floodlight Tag: Please do not remove
+  Activity name of this tag: ADEK - Retargeting pixel
+  URL of the webpage where the tag is expected to be placed: https://www.adek.abudhabi.ae/en/students/pages/innovator-.aspx
+  This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+  Creation Date: 01/10/2018
+  -->
+  <script type="text/javascript">
+      var axel = Math.random() + "";
+      var a = axel * 10000000000000;
+      document.write('<iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=rtr9a0;cat=adek-0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+  </script>
+  <noscript>
+    <iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=rtr9a0;cat=adek-0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+  </noscript>
+  <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+  <!--
+  Start of DoubleClick Floodlight Tag: Please do not remove
+  Activity name of this tag: ADEK_Conversion Pixel
+  URL of the webpage where the tag is expected to be placed: https://www.adek.abudhabi.ae/en/students/pages/innovator-.aspx
+  This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+  Creation Date: 01/10/2018
+  -->
+  <script type="text/javascript">
+      var axel = Math.random() + "";
+      var a = axel * 10000000000000;
+      document.write('<iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=convr0;cat=adek_0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+  </script>
+  <noscript>
+    <iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=convr0;cat=adek_0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+  </noscript>
+  <!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+    <div class="loading">
+    <div class="dis-table">
+        <div class="cell-mid">
+            <div class="cssload-loader">
+                <div class="cssload-inner cssload-one"></div>
+                <div class="cssload-inner cssload-two"></div>
+                <div class="cssload-inner cssload-three"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<header class="top-menu-header">
+    <nav id="scrollnav" class="navbar navbar-expand-md navbar-light bg-light transparent-nav transparent-js">
+        <div class="container">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link smoothScroll" href="#schedule">Schedule</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#workshops">Workshops</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#location">Location</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#about">About</a>
+                    </li>
+                </ul>
+                <div class=" d-md-inline-flex ml-auto text-right">
+                    <a href="indexAr.html" class="nav-link lang-switcher">عربي</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+
+    <section class="hero">
+    <div class="main-sponsors text-center">
+        <div class="container">
+            <div class="row align-items-center align-items-md-center">
+                <div class="col-6  col-md-3 ml-md-auto order-md-4">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/1.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 mr-md-auto  order-md-1">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/3.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 mx-md-auto order-md-2">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/festival-en.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 mx-md-auto order-md-3">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/inv-en.png">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="hero_anim" class="hero-wrapper">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="img-cont">
+                        <img class="img-fluid" src="img/lamps.png">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h2 class="heading item-main-title">INNOVATE.<br> CONNECT.<br> LEAVE YOUR MARK.</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+        <div class="page-wrapper homepage-wrapper">
+
+    <section id="schedule" class="schedule-section catch-scroll ">
+        <div class="container">
+            <div class="text-center">
+                <div class="sec-header  d-inline-block wow fadeIn mb-3" data-wow-delay=".7s" data-wow-duration=".7s">
+                    <h2 class="item-main-title smallHeading line-up ">
+                        event<br>
+                        <span>Details</span>
+                    </h2>
+                    <div class="myDesc item-main-desc">
+                        Free entry<br>
+                        <span class="smallDesc">
+                                and an open invitation to all!
+                            </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+	            
+	            <div class="col-md-6">
+                    <div class="single-row">
+                        <h2 class="myDesc ven-title">Abu Dhabi</h2>
+                        <div class="row align-items-center">
+                            <div class="col-md-12">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                                    <i class="icon-time"></i>
+                                    <h3 class="myDesc item-title">Timings</h3>
+                                    <div class="smallDesc">
+                                        <strong>School Trips:</strong><br>
+                                        SUN – THU : 9:00 AM – 1:00 PM<br>
+                                        <strong>Public:</strong><br>
+                                        SUN – THU : 4:00 PM – 10:00 PM<br>
+                                        FRI – SAT: 2:00 PM – 10:00 PM
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".3s">
+                                    <i class="icon-calendar-check-o"></i>
+                                    <h3 class="myDesc item-title">Dates</h3>
+                                    <div class="smallDesc">
+                                        Thursday, February 1st, 2018<br>
+                                        Wednesday, February 7th, 2018
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration=".7s">
+                                    <a href="#location" class="smoothScroll">
+                                        <i class="icon-location"></i>
+                                        <h3 class="myDesc item-title">Venue</h3>
+                                        <div class="smallDesc">
+                                            Abu Dhabi Corniche, East Plaza
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+	            
+                <div class="col-md-6">
+                    <div class="single-row">
+                        <h2 class="myDesc ven-title">AlAin</h2>
+                        <div class="row align-items-center">
+                            <div class="col-md-12">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                                    <i class="icon-time"></i>
+                                    <h3 class="myDesc item-title">Timings</h3>
+                                    <div class="smallDesc">
+                                        <strong>School Trips:</strong><br>
+                                        SUN – THU : 9:00AM – 1:00 PM<br>
+                                        <strong>Public:</strong><br>
+                                        SUN – THU : 2:00PM – 10:00 PM<br>
+                                        FRI – SAT : 2:00PM – 10:00 PM
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".3s">
+                                    <i class="icon-calendar-check-o"></i>
+                                    <h3 class="myDesc item-title">Dates</h3>
+                                    <div class="smallDesc">
+                                        Thursday, February 1st, 2018<br>
+                                       Wednesday, February 7th, 2018
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration=".7s">
+                                    <a href="#location" class="smoothScroll">
+                                        <i class="icon-location"></i>
+                                        <h3 class="myDesc item-title">Venue</h3>
+                                        <div class="smallDesc">
+                                            Hili Mall,<br>
+                                            Bawadi Mall,<br>
+                                            Al Ain Mall
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                
+                <div class="col-md-9 mx-auto">
+                    <div class="single-row">
+                        <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                            <i class="icon-calendar"></i>
+                            <h3 class="myDesc item-title">Event Content</h3>
+                            <div class="smallDesc row text-left">
+                                <div class="col-md">
+                                    - 100+ UAE based Innovators projects<br>
+                                    - 10 Signature innovative projects<br>
+                                    - 15 organizations presenting their innovative projects<br>
+                                </div>
+                                <div class="col-md">
+                                    - 27 Science workshops<br>
+                                    - 6 interactive stage shows<br>
+                                    - Multiple event activations<br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="workshops" class="workshops-section catch-scroll">
+        <div class="container">
+            <div class=" wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                <h2 class="smallHeading sec-title mb-4">Abu Dhabi Science Festival 2018 Workshops</h2>
+                <div class="smallDesc">
+                    <p>
+                        ADSF 2018 WILL OFFER NUMEROUS EXCITING AND FUN WORKSHOPS FREE TO THE PUBLIC.<br> FREE WORKSHOP
+                        ENTRY TICKETS CAN BE COLLECTED ON-SITE DURING THE SHOW DATES.
+                        <br>
+                        WORKSHOP TIMINGS ARE AS FOLLOWS:
+                    </p>
+                    <p>
+                        SUN – THU : 4PM to 10PM<br>
+                        FRI – SAT: 2PM – 10PM
+                    </p>
+                    <p class="mt-2 text-right">
+                        target age group <span class="bg-age"></span>
+                    </p>
+                </div>
+                <div class="workshop-wrapper swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Hydraulic Switch
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        It is a levelled up project for kids who love to tinker with circuits.
+                                        Participants
+                                        will learn about integrating materials together to make an advanced science
+                                        project.
+                                        We add on to the basic Morse code project and make a hydraulic arm to switch
+                                        on/off
+                                        a light.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/surgery.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        OR Surgery
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Emergency! Emergency! There’s been an accident! Learn some life-saving skills
+                                        with
+                                        this incredible drop-in medical activity. Explore the different parts and
+                                        functions
+                                        of the human body and work out what’s the matter with our patients before
+                                        scrubbing
+                                        up and getting hands-on with some real surgical kit in our life like operating
+                                        theatre. Use a laparoscope and remove gallstones and cysts or clean a wound or
+                                        learn
+                                        how to take blood samples. If you want to become a top-class surgeon, this is
+                                        your
+                                        chance to scrub up and save some lives!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/blood.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Blood Lab
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Visit our special Blood Lab to mix up a gooey blood milkshake and even touch a
+                                        real
+                                        heart (if you’re feeling brave!) as you find out how the science of blood can
+                                        help
+                                        us diagnose disease and discover some of the cutting-edge
+                                        technology scientists use to study it. See what really happens when we get cuts
+                                        and
+                                        bruises and make your own blood-curdling scab to learn how they form; then take
+                                        a
+                                        closer look at the workings of the heart and lungs and how blood changes with
+                                        oxygen.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/power.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Power it Up
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Join our team of specialists to learn all about the mysterious world of Nuclear
+                                        Energy. This interactive workshop takes participants through all stages of the
+                                        process of how we get so much energy from nuclear power stations. From atoms to
+                                        radioactivity, chain reactions to explosions, from energy to nuclear fission
+                                        this
+                                        workshop has it all. Participants will get the opportunity to discover and see
+                                        how
+                                        the science of particle physics is helping them to switch on their mobile phones
+                                        and
+                                        then have the opportunity to create some of their own electricity using our
+                                        unique
+                                        hand power generators.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/mechanics.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Mini Mechanics
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Put on your overalls, step inside our workshop and take a look inside real
+                                        engines
+                                        to find out how they work. You’ll get hands on with real tools and engine parts
+                                        by
+                                        taking apart our engines to discover what it takes to make a car move and how to
+                                        repair it when it breaks. This engaging interactive workshop simulates the
+                                        environment of a real car workshop - a must for any budding engineers and
+                                        mechanics!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/micro.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Micro-Coders
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        A micro:bit is a new type of tiny microcontroller that is taking the education
+                                        world
+                                        by storm. Young learners are able to program this open development circuit board
+                                        using a speciallydesigned drag and drop coding environment that introduces them
+                                        to
+                                        essentials of app development. They can write their name in lights or even
+                                        create a
+                                        tiny hand-held games console! In this new for 2017 workshop mini coders will get
+                                        a
+                                        chance to get hands-on with coding helping them to become the innovators of the
+                                        future.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/crackers.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Code Crackers
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Enter the cyber-bunker – a hi-tech hub where
+                                        you’ll crack codes, crunch data and find out how security agencies protect you
+                                        from
+                                        online crime. As part of a digital security team, this code-breaking mission
+                                        will
+                                        open your eyes to a hidden world of intrigue and enigma.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/cubelets.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Cubelets Robot Blocks
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Welcome to the world of Cubelets – the expandable modular robotics system. Use
+                                        our
+                                        Cubelets to explore open-ended challenges and create your very own robot. The
+                                        Cubelet system provides barrier free entry to robotics learning by using
+                                        magnetic
+                                        cubes to produce instantly operating robots. This simple and intuitive system
+                                        allows
+                                        participants to concentrate on learning about the rules of robotics and logic,
+                                        without having to worry about challenging builds or programming. In this fun,
+                                        fast
+                                        paced workshop, participants will
+                                        become mini-robot engineers and create their
+                                        own novel, wacky and useful robots!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/robot.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Robot Inventor
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Test your programming and design skills to construct and code your very own
+                                        remote
+                                        control robot. In this hands on workshop, participants will tackle all sorts of
+                                        challenges and obstacle courses, before competing against their friends in the
+                                        micro
+                                        robot battle arena! Put your design and engineering skills to the test!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/3d.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        3D Engineer
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        The world is changing fast! Engineers and product designers can now create a 3D
+                                        model of a product and have it built by a machine. In this hands on workshop,
+                                        participants will design their own 3D object on a computer and watch as our
+                                        fleet of
+                                        hightech machines produce it before your eyes. Within minutes they will see
+                                        their
+                                        designs go from an idea in their head to a physical product in their hand. In
+                                        this
+                                        creative workshop, participants will learn the basics of 3D ‘CAD’ modelling,
+                                        create
+                                        their own personalised keyring, and then watch as it is created by one of the 3D
+                                        printers in Innovation Month’s 3D printer farm!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/laser.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Laser Planes
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Calling all aeronautical enthusiasts – this is your chance to become a test
+                                        pilot!
+                                        In this exciting new workshop you’ll use CAD to design your own unique wing,
+                                        before
+                                        cutting it out with a laser cutter. Then it’s time to assemble it on a foam
+                                        glider
+                                        and take it to the testing range where you’ll use the high-speed launcher to see
+                                        how
+                                        your creation flies – will your design make the mark? The fun continues
+                                        afterwards
+                                        as you get to take your glider away with you at the end of the workshop.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/car.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Car of the Future:
+                                        Design Challenge
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Future car racing engineers put their skills to the test, designing and building
+                                        their own hydrogen powered model vehicle. This hands-on workshop challenges
+                                        participants, independently, with their peers, or family groups, to create,
+                                        design
+                                        and construct their own hydrogen powered vehicle.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/app.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        App Inventor
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        This workshop will use an accessible and powerful coding environment that will
+                                        allow
+                                        students to very quickly create their own Android apps that they can download
+                                        and
+                                        run on their own mobile phones. By leveraging the power of the open-source MIT
+                                        App
+                                        Inventor software, introductory students will have the excitement of creating
+                                        their
+                                        first-ever working piece of software while more advanced students will quickly
+                                        learn
+                                        that the only limit is their imagination. Students will be able to download
+                                        their
+                                        work to their phones or save it online to work on later.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/android.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Android Design Lab
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Take your first steps to Play Store success with
+                                        our introductory Android Design Lab! This 45 minure session will introduce you
+                                        to
+                                        the basics of MIT App Inventor software and we will show you how to create your
+                                        first simple smartphone game. You’ll even learn to package it up and send it to
+                                        your
+                                        friends! In this innovative course, we give you the basics but the customisation
+                                        is
+                                        all down to you! Choose or create your own images or sounds, sketch out ideas
+                                        for
+                                        the app look and feel, then playtest your creation and refine the details as you
+                                        create a classic smartphone game.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/mambo.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Mambo – Drone Pilot
+                                        Transporters
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Get hands-on with some uplifting technology as you control and fly a drone.
+                                        Thanks
+                                        to an advanced flight controller and high performance sensors, these Parrot
+                                        Mambo
+                                        kits are easy to manoeuvre, but it’s up to you and your team to use all your
+                                        skills
+                                        to complete a series of challenges. Get troubleshooting and drag and drop the
+                                        code
+                                        required to programme your drone to fly remotely and even take some pictures
+                                        along
+                                        the way… your aerial mission awaits!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+                        
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Nutty Motor Fan
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        In the UAE, when the sun lords over us during the summer, it is HOT! So we try
+                                        ways
+                                        to cool off any way we can… hence the Nutty Motor Fan! Using recycled materials,
+                                        we
+                                        make a motor fan with the use of our basic knowledge on circuits and
+                                        electricity…
+                                        It’s getting hot in here, so turn up that fan and make some cool breeze!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/nutty_scientist.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Nutty Ice – States of Matter
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Using a special kind of ice, we will be performing “cool” experiments. Have you
+                                        ever
+                                        heard “ice” sing? How about tasting your own burp? Make your own fizzy juice
+                                        while
+                                        making a Ziploc pop? How about a bubble shower and a short swim through clouds
+                                        of
+                                        smoke? These and more in this popular Nutty Scientists’ workshop.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Nutty Motor Car
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        A little ingenuity goes a long way! Using recyclable materials like plastic
+                                        bottles,
+                                        plastic lids, old skewers, an old motor from an old toy and poof! A Nutty Motor
+                                        Car!!!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/polymer.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Polymer Play
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        It is one of the most popular workshops of Nutty Scientists. Slime, slime,
+                                        glorious
+                                        slime! But not just simple slime… here, we make glow in the dark slime and
+                                        fluffy,
+                                        sparkly slime. Kids get to learn states of matter while getting messy in this
+                                        fun,
+                                        interactive, gloriously engaging workshop.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Smoke Launchers
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Have you ever seen a real, live tornado? Would you want to? This Nutty
+                                        Scientists
+                                        workshop will teach you how to make smoke rings and actually play with it. Want
+                                        to
+                                        shoot some smoke rings to a target? That is quite possible in this fun-laden
+                                        workshop.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Sugary Structures
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Learn and explore the physics of towers and bridges by building it using… GUM
+                                        DROPS
+                                        and dried SPAGHETTI! Find out what shape would be better to build taller towers
+                                        or
+                                        longer bridges? How many spaghetti pillar do we use to build stronger and taller
+                                        towers. What’s amazing is that they get to take their towers home and maybe eat
+                                        it
+                                        too!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Camel Race
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Creative Robotics will take you on a journey of UAE Heritage and Tradition!
+                                        Learn
+                                        how to build a camel robota dn observe how different gears change the speed of
+                                        the
+                                        robot. Learn to program your robot to race in an arena along with equally
+                                        challenging competitors. What changes can you make on your design to take the
+                                        cup?
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Pop the Bubble
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Venture into a journey of exploring the firefly world. Learn how to build a
+                                        firefly
+                                        robot, equip it with a balloon and compete with other robots to pop the bubble,
+                                        learn what happens when you change the structure of the robot. How to pop the
+                                        maximum balloons? Let us discover together
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Mobile App
+                                        Development
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        In this workshop, Skillbloc Innovation Communicators will teach students an
+                                        innovative way to code simple yet functional Android Mobile Applications. Mobile
+                                        Applications are an innovative way of solving a variety of our daily problems,
+                                        through this activity students will be exposed to Coding.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Prototyping
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Putting things together and bringing parts to an operational order require a
+                                        variety
+                                        of skills such as the ability to use measuring devices, understand tolerances,
+                                        and
+                                        being able to assess structural and functional aspects. In this workshop we
+                                        expose
+                                        attendees to the process of putting together a functional prototype.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Electronics
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Projects nowadays can seldom get away with no electronics in them. Hence a
+                                        combination of light, movement, or intelligence is often a fundamental
+                                        ingredient in
+                                        any innovative project. In this workshop we scrape the surface of electronic
+                                        assembly in a fun way that is accessible to children and adults alike.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        Woodworking
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        Everyone has engaged in some form of woodworking at one point in their lives
+                                        either
+                                        at college or with an older family member. In this workshop we allow attendees
+                                        to
+                                        experience a bit of woodworking to the end of making a functional and a
+                                        structurally-sound outcome.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                    <div class="navigations ">
+                        <i class="nav-next icon-angle-right"></i>
+                        <i class="nav-prev icon-angle-left"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="location" class="location-section catch-scroll">
+        <div class="container-fluid ">
+            <div class="row ">
+                <div class="col-md">
+                    <div class="myDesc mb-3 text-center text-uppercase">Abu Dhabi</div>
+                    <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/u/0/embed?mid=19VNN8PP9Wlb-Y7cDSXLxLN8JKlPmZX0W"  height="480"></iframe>
+                </div>
+                <div class="col-md">
+                    <div class="myDesc mb-3 text-center text-uppercase">AlAin</div>
+                    <iframe class="embed-responsive-item" src="https://www.google.com/maps/d/u/0/embed?mid=1pyfk6GbdfgMGIec8W9DgIypCQnWO35Nk"  height="480"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about-section catch-scroll">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-2 col-lg-2">
+                    <img class="img-fluid" src="img/logos/2.png">
+                </div>
+                <div class="col-md-4">
+                    <div class="wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                        <h2 class="item-main-title smallHeading line-up mb-4">
+                            What is<br>
+                            INNOVATOR 2018?
+                        </h2>
+                    </div>
+                </div>
+                <div class="col-md-6 ml-md-auto">
+                    <div class="smallDesc">
+                        Innovator 2018 is a strategic initiative by the Department of Education and Knowledge (ADEK),
+                        bringing together individual innovators, academic institutions, government entities and private
+                        sector entrepreneurs in the Emirate of Abu Dhabi, contributing to the fulfillment of the UAE’s
+                        innovation strategy which aims to position the UAE amongst the most innovative nations in the
+                        world. Now in its 4th edition, it is a an exciting 7-day event targeting audiences aged 13+
+                        across the UAE. The INNOVATOR 2018 is a “Do-It-Yourself” (DIY) inspired event and will showcase
+                        homegrown projects by innovators from across the UAE in the categories of Art & Design,
+                        Sustainability & Life Sciences, Aerospace, Automotive, Mechanics, & Digital Fabrication,
+                        Robotics & Electronics.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
+    <section class="registration-section">
+    </section>
+    
+    <section  class="about-section catch-scroll">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-2 col-lg-2">
+                    <img class="img-fluid" src="img/logos/4.png">
+                </div>
+                <div class="col-md-4">
+                    <div class="wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                        <h2 class="item-main-title smallHeading line-up mb-4">
+                            What is Abu Dhabi<br>
+                            Science Festival 2018
+                        </h2>
+                    </div>
+                </div>
+                <div class="col-md-6 ml-md-auto">
+                    <div class="smallDesc">
+                        ADSF 2018 supports the development of human capital in the science and technology sectors in line with the Abu Dhabi Plan and the UAE Innovation Strategy. It aims to spark the imagination of the nation’s youth in science and technology, encouraging them to pursue STEM subjects throughout their education and career choices. Now in its 8th edition, ADSF 2018 is one of the biggest annual science festival’s in the region. ADSF 2018 will showcase exciting, engaging and educational activities for school trips at the morning and for the whole family during the evenings.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="registration-section">
+        <div class="container">
+            <h2 class="text-uppercase mb-5">are you an innovator?</h2>
+            <div class=" wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".6s">
+                <a href="http://innovator.vpr.ae/" target="_blank" class="btn-reg">Register now</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="main-sponsors-section">
+
+    </section>
+
+</div>
+
+
+    <footer>
+    <div class="container">
+        <div class="rights">
+            COPYRIGHT &copy; 2018 Department of education and knowledge
+        </div>
+    </div>
+</footer>
+
+
+<!-- to Top Button -->
+<a id="back-to-top" href="#" class="btn btn-Warning btn-sm back-to-top">
+    <span class="icon-angle-double-up"></span>
+</a>
+
+
+<!--jquery core v 3.2.1-->
+<script src="js/vendors/jquery-3.2.1.min.js"></script>
+<!-- bootstrap -->
+<script src="js/vendors/popper.min.js"></script>
+<script src="js/vendors/bootstrap.min.js"></script>
+<!-- nice scroll -->
+<script src="js/vendors/jquery.nicescroll.min.js"></script>
+<!-- smooth scroll -->
+<script src="js/vendors/jquery.smooth-scroll.min.js"></script>
+<!-- fancy box -->
+<script src="js/vendors/jquery.fancybox.min.js"></script>
+<script src="js/vendors/swiper.min.js"></script>
+<!-- wow animate -->
+<script src="js/vendors/wow.min.js"></script>
+<!-- my custom scripts -->
+<script src="js/scripts.js"></script>
+
+    
+<script>
+
+</script>
+
+
+
+
+
+
+  </body>
+
+</html>

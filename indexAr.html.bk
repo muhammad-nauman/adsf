@@ -1,0 +1,1190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"><!-- Mobile Metas -->
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>INNOVATE CONNECT</title>
+    <meta name="description" content=" Website"/><!--Desc-->
+
+    <link rel="icon" href="favicon.ico" type="image/x-icon"/><!--browser icon-->
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/><!--browser icon-->
+    <link rel="apple-touch-icon-precomposed" href="favicon.png">
+    <!--icons style-->
+    <link rel="stylesheet" href="fonts/icons/style.css">
+    <!--website style-->
+    <link rel="stylesheet" href="css/styleAr.css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/r29/html5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.js"></script>
+    <![endif]-->
+
+</head>
+
+
+<body data-spy="scroll" data-target="#scrollnav">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-112810960-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-112810960-1');
+</script>
+
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 820849501;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+             src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/820849501/?guid=ON&amp;script=0"/>
+    </div>
+</noscript>
+
+<!-- Facebook Pixel Code -->
+<script>
+    !function (f, b, e, v, n, t, s) {
+        if (f.fbq) return;
+        n = f.fbq = function () {
+            n.callMethod ?
+                n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+        };
+        if (!f._fbq) f._fbq = n;
+        n.push = n;
+        n.loaded = !0;
+        n.version = '2.0';
+        n.queue = [];
+        t = b.createElement(e);
+        t.async = !0;
+        t.src = v;
+        s = b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+        'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '675617172825949');
+    fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+               src="https://www.facebook.com/tr?id=675617172825949&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: ADEK - Retargeting pixel
+URL of the webpage where the tag is expected to be placed: https://www.adek.abudhabi.ae/en/students/pages/innovator-.aspx
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 01/10/2018
+-->
+<script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=rtr9a0;cat=adek-0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+    <iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=rtr9a0;cat=adek-0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?"
+            width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: ADEK_Conversion Pixel
+URL of the webpage where the tag is expected to be placed: https://www.adek.abudhabi.ae/en/students/pages/innovator-.aspx
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 01/10/2018
+-->
+<script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=convr0;cat=adek_0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+</script>
+<noscript>
+    <iframe src="https://8333442.fls.doubleclick.net/activityi;src=8333442;type=convr0;cat=adek_0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;ord=1?"
+            width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<div class="loading">
+    <div class="dis-table">
+        <div class="cell-mid">
+            <div class="cssload-loader">
+                <div class="cssload-inner cssload-one"></div>
+                <div class="cssload-inner cssload-two"></div>
+                <div class="cssload-inner cssload-three"></div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<header class="top-menu-header">
+    <nav id="scrollnav" class="navbar navbar-expand-md navbar-light bg-light transparent-nav transparent-js">
+        <div class="container">
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                    aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link smoothScroll" href="#schedule">الجدول الزمني</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#workshops">ورش العمل</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#location">الموقع</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link smoothScroll" href="#about">نبذة</a>
+                    </li>
+                </ul>
+                <div class=" d-md-inline-flex ml-auto text-right">
+                    <a href="index.html" class="nav-link lang-switcher">English</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+</header>
+
+
+<section class="hero">
+    <div class="main-sponsors text-center">
+        <div class="container">
+            <div class="row align-items-center align-items-md-center">
+                <div class="col-6 col-md-3 mr-md-auto order-md-1">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/1.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 ml-md-auto  order-md-4">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/3.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 mx-md-auto  order-md-3">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/festival-ar.png">
+                    </div>
+                </div>
+                <div class="col-6 col-md-3 mx-md-auto order-md-2">
+                    <div class="logo-cont">
+                        <img class="img-fluid" src="img/logos/inv-ar.png">
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <div id="hero_anim" class="hero-wrapper">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="img-cont">
+                        <img class="img-fluid" src="img/lamps.png">
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <h2 class="heading item-main-title">ابتكر.<br>تواصل.<br>اترك بصمتك.</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<div class="page-wrapper homepage-wrapper">
+    <section id="schedule" class="schedule-section catch-scroll ">
+        <div class="container">
+            <div class="text-center">
+                <div class="sec-header d-inline-block wow fadeIn mb-3" data-wow-delay=".7s" data-wow-duration=".7s">
+                    <h2 class="item-main-title smallHeading line-up mb-4">
+                        تفاصيل<br>
+                        <span>الفعالية</span>
+                    </h2>
+                    <div class="myDesc item-main-desc">
+                        دخول مجاني<br>
+                        <span class="smallDesc">
+                                	والدعوة عامة للجميع !
+                            </span>
+                    </div>
+                </div>
+            </div>
+            <div class="row align-items-center">
+
+                <div class="col-md-6">
+                    <div class="single-row">
+                        <h2 class="myDesc ven-title">أبوظبي</h2>
+                        <div class="row align-items-center">
+                            <div class="col-md-12 ">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                                    <i class="icon-time"></i>
+                                    <h3 class="myDesc item-title">التوقيت</h3>
+                                    <div class="smallDesc">
+                                        <strong>الرحلات المدرسية :</strong><br>
+                                        من الأحد إلى الخميس : 9:00 صباحاً – 1:00 مساءًً<br>
+                                        <strong>الجمهور :</strong><br>
+                                        من الأحد إلى الخميس: 4 مساءً – 10 مساءً<br>
+                                        الجمعة - السبت: 2 مساءً – 10 مساءًً
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".3s">
+                                    <i class="icon-calendar-check-o"></i>
+                                    <h3 class="myDesc item-title">التواريخ</h3>
+                                    <div class="smallDesc">
+                                        من الخميس، 1 فبراير 2018<br>
+                                        إلى الأربعاء، 7 فبراير 2018
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration=".7s">
+                                    <a href="#location" class="smoothScroll">
+                                        <i class="icon-location"></i>
+                                        <h3 class="myDesc item-title">الموقع</h3>
+                                        <div class="smallDesc">
+                                            كورنيش ابو ظبي , شرق بلازا
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6 ">
+                    <div class="single-row">
+                        <h2 class="myDesc ven-title">العين</h2>
+                        <div class="row align-items-center">
+                            <div class="col-md-12 ">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                                    <i class="icon-time"></i>
+                                    <h3 class="myDesc item-title">مواعيد ورش العلم</h3>
+                                    <div class="smallDesc">
+                                        <strong>الرحلات المدرسية :</strong><br>
+                                        من الأحد إلى الخميس : 9:00 صباحاً – 1:00 مساءًً<br>
+                                        <strong>الجمهور :</strong><br>
+                                        من الأحد إلى الخميس: 2 مساءً – 10 مساءً<br>
+                                        الجمعة - السبت: 2 مساءً – 10 مساءًً
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".3s" data-wow-duration=".3s">
+                                    <i class="icon-calendar-check-o"></i>
+                                    <h3 class="myDesc item-title">التواريخ</h3>
+                                    <div class="smallDesc">
+                                        من الخميس، 1 فبراير 2018<br>
+                                        إلى الأربعاء، 7 فبراير 2018
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md col-wrapper">
+                                <div class="single-item wow fadeInUp" data-wow-delay=".7s" data-wow-duration=".7s">
+                                    <a href="#location" class="smoothScroll">
+                                        <i class="icon-location"></i>
+                                        <h3 class="myDesc item-title">الموقع</h3>
+                                        <div class="smallDesc">
+                                            هيلي مول<br>
+                                            بوادي مول<br>
+                                            العين مول <br>
+
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-9 mx-auto">
+                    <div class="single-row">
+                        <div class="single-item wow fadeInUp" data-wow-delay=".5s" data-wow-duration=".5s">
+                            <i class="icon-calendar"></i>
+                            <h3 class="myDesc item-title">محتوى الفعالية</h3>
+                            <div class="smallDesc row text-left">
+                                <div class="col-md">
+                                    - 100+ مشروع مُبتكر محلياً في الدولة <br>
+                                    - 10 مشاريع ابتكار فريدة من نوعها<br>
+                                    - 15 مشروع مُبتكر من قبل المؤسسات<br>
+                                </div>
+                                <div class="col-md">
+                                    - 27 ورشة عمل في مجال العلوم<br>
+                                    - 6 عروض مسرحية تفاعلية<br>
+                                    - العديد من الأنشطة التفاعلية<br>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <section id="workshops" class="workshops-section catch-scroll">
+        <div class="container">
+            <div class=" wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                <h2 class="smallHeading sec-title mb-4">ورش عمل مهرجان أبوظبي للعلوم 2018</h2>
+                <div class="smallDesc">
+                    <p>
+                        سيقدم مهرجان أبوظبي للعلوم 2018 العديد من ورش العمل الممتعة والتفاعلية مجاناً للزوار الكرام،<br>
+                        حيث يمكنهم الحصول على تذاكر الدخول المجانية خلال الفعالية.
+                        <br>فيما يلي مواعيد ورش العمل :
+
+                    </p>
+                    <p>
+                        الأحد - الخميس: 4 مساءً إلى 10 مساءً<br>
+                        الجمعة - السبت: 2 مساءً إلى 10 مساءً
+                    </p>
+                    <p class="mt-2 text-right">
+                        الفئه العمريه المستهدفه <span class="bg-age"></span>
+                    </p>
+
+                </div>
+                <div class="workshop-wrapperRtl swiper-container">
+                    <div class="swiper-wrapper">
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        المفتاح الهيدروليكي
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        هي مشروع متقدم للأطفال الذين يحبون العمل مع الدوائر الكهربائية. سيتعلم المشاركون
+                                        عن دمج المواد معًا لتقديم مشروع علمي متقدم. نضيف إلى مشروع شفرة مورس الأساسية
+                                        ونصنع ذراع هيدروليكي لتشغيل الضوء وغلقه.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/surgery.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        غرفة العمليات
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        إسعاف، إسعاف، لقد وقع حادث! هذه هي فرصتك لإعداد نفسك وإنقاذ المصابين.افحص
+                                        المريض، وشخّص إصابته، ومن ثم دع الجراحين المختصين يساعدونك في إنقاذه. تعلّم
+                                        الأسماء الطبيّة لمختلف أجزاء الجسم واكتشف الأدوات التي يستخدمها الجراح للقيام
+                                        بعمله.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/blood.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مختبر الدم
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        قم بزيارة مختبر الدم المميّز واكتشف كيف يساعدنا علم الدم على تشخيص الأمراض. اصنع
+                                        بنفسك خثرة دموية واكتشف كيف تتشكّل الندبات، أو تعرّف على الصمامات واستكشف طريقة
+                                        استخدام أجسادنا للأكسجين..
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/power.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        شغّلها!
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        إنها رحلة الى عالم الطاقة النووية، حيث تستكشفون الجسيمات المشعّة التي تحيط بنا
+                                        وكيفية استخدامها في الطاقة النووية. في ورشة العمل المذهلة هذه، سنكتشف كيف يتم
+                                        توليد الطاقة في محطة للطاقة النووية كما سنتعرّف على كل ما يحيط بالطاقة الضخمة
+                                        للمفاعلات البخارية. وستتمكّن من توليد الطاقة الكهربائية الخاصة بك!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/mechanics.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        الميكانيكيون الصغار
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        الق نظرة عن كثب على ما يجعل المحرّك يعمل واستخدم أدوات حقيقية لتفكيكه، وحاول أن
+                                        تستكشف كيف تبني وتصلح هذه الآلات المذهلة. ومن ثم اكتشف كيف يعمل محرّك الاحتراق
+                                        الداخلي وما هي الأجزاء الضرورية لجعل السيارة تتحرّك.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/micro.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        المبرمجون الصغار
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        هل تساءلت يوماً كيف تُصنع ألعاب وتطبيقات الحاسوب؟ بواسطة الرياضيات والعلوم!
+                                        تعرّف على التشفير واستخدم نظام السحب والإفلات لمشاهدة كيف تصنع برنامجاً. ستشكّل
+                                        ورشة العمل هذه مصدر وحي لمبرمجي الغد!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/crackers.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مفككو الشيفرات
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        ادخل الى غرفة الانترنت المحصنة هذه - وهي مركز يتمتّع بأحدث التكنولوجيا حيث ستفك
+                                        الشيفرات، وتحلل المعطيات وتكتشف كيف تحميك الهيئات الأمنية من الجرائم
+                                        الالكترونية. بصفتك عضواً في فريق الأمن الرقمي، ستفتح مهمة فك الشيفرات هذه عينيك
+                                        على عالم مخفي من الألغاز والمؤامرات.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/cubelets.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        روبوت المكعبات الصغيرة
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        في ورشة عمل روبوت المكعّبات الصغيرة هذه، ليس من الضرورة أن تعرف كيف تقوم
+                                        بالتشفير أو اللحام لبناء روبوت. اضرب مكعّبات الروبوت ببعضها والأوجه المغناطيسية
+                                        ستقوم بالعمل. تحوّل في ورشة العمل الممتعة والسريعة الوتيرة هذه إلى مهندس روبوتات
+                                        صغير وابتكر روبوتاتك غير المألوفة والغريبة والمفيدة!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/robot.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مبتكر الروبوت
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        تعلّم كيف تبني روبوتك، وتتحكّم به بواسطة الأوامر، وخلال ذلك تعرّف على
+                                        الإلكترونيات والترميز . بعد نجاحك في التحديات، يمكنك "قرصنة" الروبوت الخاص بك
+                                        لإضافة عينين يتغيّر لونهما ، أو جعل الروبوت يتبع ضوء المصباح وغيرها!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/3d.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        الهندسة ثلاثية الأبعاد
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        سيتعلم المشاركون عمل الطابعات ثلاثية الأبعاد، وبعض التطبيقات الهامة. سيتعلمون
+                                        بعض مهارات عينات برنامج كاد ثلاثي الأبعاد المطبقة، وإنشاء أشكالهم ثلاثية الأبعاد
+                                        الخاصة وطباعتها. كما أنهم سيصنعون أشكال ثلاثية الأبعاد باستخدام قلم الطابعة
+                                        ثلاثي الأبعاد.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/laser.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        طائرات الليزر
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        انضم إلينا لتصبح طيّار تجريبي من خلال تصميم وبناء طائرة شراعية من الاسفنج
+                                        باستخدام قاطع الليزر. ومن ثم يمكنك اختبار طائرتك على منصة الإطلاق الفائقة السرعة
+                                        والتنافس على أبعد مسافة تقطعها الطائرة ، وفي النهاية سيستنّى لك أخذ الطائرة إلى
+                                        المنزل!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/car.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        "سيارة المستقبل: "تحدي التصميم "
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        "مهندسين سباق السيارات في المستقبل وضعوا مهاراتهم في الاختبار وتصميم وبناء سيارة
+                                        تعمل بطاقة الهيدروجين الخاصة بهم. ورشه عمل التدريب العملي تتحدى المشاركين ، بشكل
+                                        مستقل ، مع زملائهم ، أو مجموعات العائلة ، لإنشاء وتصميم بناء السيارة بطاقة
+                                        الهيدروجين الخاصة بهم . "
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/app.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مخترع التطبيق
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        "ستستخدم ورشه العمل هذه بيئة قويه الترميز و سهلة الوسول التي ستسمح للطلاب أن
+                                        يخترعوا بسرعة كبيرة الروبوت الخاصة بهمو سيتمكن لهم تحميل وتشغيل التطبيقات على
+                                        الهواتف المحمولة الخاصة بهم. من خلال الاستفادة من سلطة المصدر المفتوح لتطبيق
+                                        مخترع التطبيقات الذي ينتمي إلى معهد ماساتشوستس للتكنولوجيا، سيكون لطلاب
+                                        التمهيدية فرصة الشعور بالاثاره عند إنشاء أول قطعه العمل من البرمجيات في حين ان
+                                        الطلاب المتقدمة سوف تتعلم بسرعة ان الحد الوحيد هو خيالهم. الطلاب ستكون قادره علي
+                                        تحميل عملهم إلى الهواتف أو حفظه علي الإنترنت للعمل في وقت لاحق. "
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/android.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مختبر تصميم الروبوت
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        "اتخذ الخطوات الاولي لنجاح PLAY STORE مع مختبر تصميم الروبوت التمهيدي ! هذا
+                                        الدورة و مدتها 45 دقيقة سوف تعرض لكم الأساسيات لتطبيق مخترع التطبيقات الذي ينتمي
+                                        إلى معهد ماساتشوستس للتكنولوجيا، و كيفيه إنشاءول لعبة بسيطة على ال الهاتف الذكي
+                                        الخاصة بك. ستتعلم أيضاً كيفية حزمه وإرساله إلى أصدقائك! في هذه الدورة المبتكرة ،
+                                        نعطيك الأساسيات ولكن التخصيص هو لك! سيمكنك إختيار و إنشاء الصور الخاصة بك أو
+                                        الأصوات ، ورسم أفكار لشكل و مظهر التتطبيق، ثم إلعب و إختبر الإنشاء الخاص بك و
+                                        حسن التفاصيل كما تقوم بإنشاء لعبه الهاتف الذكي الكلاسيكية. "
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/mambo.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        طائرات المامبو بدون طيار
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        اختبر التقنيات المتطورة وحاول التحكّم بالطائرة بدون طيار والتحليق بها. يمكنك
+                                        استخدام جميع المهارات المتوفّرة لدى أفراد فريقك لإكمال سلسلة من التحديات. حاول
+                                        أن تحل المشاكل التي تواجهك واستخدم تقنية سحب الشيفرة وإسقاطها الضرورية لبرمجة
+                                        طائرتك لتحلّق بعيداً وأخذ بعض الصور عن بعد ... مهمتك الجوية بإنتظارك!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        مروحة "نوتى" بمحرك
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        في الإمارات العربية المتحدة، عندما تشرق الشمس علينا خلال الصيف، يصبح الجو حارًا!
+                                        لذلك نجرب أي طريقة كانت لتبريد الجو... وبالتالي نحصل على مروحة "نوتي" بمحرك!
+                                        باستخدام المواد المعاد تدويرها، نصنع مروحة بمحرك باستخدام معرفتنا الأساسية عن
+                                        الدوائر والكهرباء ...الأمر يزداد حرارة هنا، لذلك قم بتشغيل هذه المروحة واحصل على
+                                        بعض النسيم البارد!
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/nutty_scientist.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        د "نوتي" حالات المادة
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        باستخدام نوع خاص من الجليد، سنقوم بإجراء تجارب "باردة ورائعة". هل سبق لك أن سمعت
+                                        "الجليد" يغني؟ ماذا عن تذوق التجشؤ الخاص بك؟ اصنع العصير الفوار الخاص بك أثناء
+                                        فرقعة أكياس بلاستيكية (زيبلوك)؟ ماذا عن حمام الفقاعات والسباحة لمدة قصيرة خلال
+                                        غيوم من الدخان؟ كل هذا وأكثر في هذه الورشة المشهورة من "نوتى ساينتستس".
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        سيارة "نوتى"
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        هي واحدة من ورش العمل الأكثر شعبية من "نوتى ساينتستس".السلايم وما أعظمه! ولكن
+                                        ليس فقط السلايم البسيط ... هنا، نحدث توهّج في السلايم الداكن والسلايم المنفوش
+                                        واللامع. يحظى الاطفال بفرصة تعلم حالات المادة مع إحداث فوضى في هذه الورشة المرحة
+                                        والتفاعلية التي تساعد على المشاركة بشكل جذاب.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/polymer.jpg">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        اللعب مع البوليمر
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        هي واحدة من ورش العمل الأكثر شعبية من "نوتى ساينتستس".السلايم وما أعظمه! ولكن
+                                        ليس فقط السلايم البسيط ... هنا، نحدث توهّج في السلايم الداكن والسلايم المنفوش
+                                        واللامع. يحظى الاطفال بفرصة تعلم حالات المادة مع إحداث فوضى في هذه الورشة المرحة
+                                        والتفاعلية التي تساعد على المشاركة بشكل جذاب.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        قاذفات الدخان
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        هل سبق لك أن رأيت اعصار حقيقي مباشر؟ هل ترغب في ذلك؟ ستعلمك هذه الورشة الخاصة
+                                        "بنوتى ساينتستس" كيفية إنشاء حلقات الدخان واللعب عمليًا معها. هل ترغب في اطلاق
+                                        حلقات الدخان نحو الهدف؟ هذا ممكنًا تمامًا في هذه الورشة المليئة بالمرح.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>5
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        الهياكل السكرية
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        سيأخذكم كريتف روبوتكس في رحلة ممتعة حول تراث وتقاليد دولة الإمارات العربية
+                                        المتحدة. للتعلم كيفية بناء روبوت الجمل واستنتاج كيف ان ناقلات الحركة المختلفة
+                                        تغير من سرعة الروبوت. تعلم كيفية برمجة الروبوت الخاص بك للسباق في المضمار جنبا
+                                        إلى جنب مع المنافسين الاخرين.ما هي التغييرات التي يمكن أن تحسن من التصميم الخاص
+                                        بك للفوز بالكأس؟
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        سباق الجمال
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        سيأخذكم كريتف روبوتكس في رحلة ممتعة حول تراث وتقاليد دولة الإمارات العربية
+                                        المتحدة. للتعلم كيفية بناء روبوت الجمل واستنتاج كيف ان ناقلات الحركة المختلفة
+                                        تغير من سرعة الروبوت. تعلم كيفية برمجة الروبوت الخاص بك للسباق في المضمار جنبا
+                                        إلى جنب مع المنافسين الاخرين.ما هي التغييرات التي يمكن أن تحسن من التصميم الخاص
+                                        بك للفوز بالكأس؟
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        فقع البالون
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        انضم الينا في رحلة استكشاف عالم حيوان اليراعة المضيئ. تعلم كيفية بناء الروبوت
+                                        اليراعة المضيئة، وتجهيزه مع بالون والتنافس مع الروبوتات الأخرى لفقع البالون.
+                                        تعلم ما يحدث عند تغيير هيكلية الروبوت. كيفية فقع اكبر عدد من البالونات؟ دعونا
+                                        نكتشف معا.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>11
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        تطوير تطبيقات المحمول
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        تطبيقات المحمول وسيلة ابداعية لحل مشكلاتنا اليومية. في ورشة العمل هذه سيتعلم
+                                        المشاركين طريقة مبتكرة لترميز تطبيقات الـAndroid البسيطة و العملية.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        تصميم النماذج
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        على المشاركين في هذه الورشة التعرف وممارسة العديد من المهارات والتقنيات المتعلقة
+                                        بالتصنيع والتجميع بطرق علمية وحسابية متطورة.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        الالكترونيات
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        أصبحت الالكترونيات جزءا لا يتجزأ من أغلب المشاريع الحديثة، حيث لابد أن تحتوي على
+                                        دوائر كهربائية للإضاءة أو برمجيات الاكترونية للتحكم بالحركة. في هذه الورشة سيتم
+                                        تعريف المشاركين على أساسيات الدوائر الكهربائية والالكترونيات بطريقة سلسة و ممتعة
+                                        لجميع الأعمار.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        النجارة
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        تعتبر حرفة النجارة من أقدم الحرف المعروفة في التاريخ، وقد يكون أغلبنا لديه ولو
+                                        خبرة بسيطة في مجال النجارة سواء كان متوارثاً عن العائلة، أو كمادة علمية في
+                                        المدرسة.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        دراجات العروض الجوالة
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        تعرض كل واحدة من دراجات العروض الجوالة عدد كبير من التجارب العلمية العجيب
+                                        والغريبة والرائعة والمدوية، ابتداءً من استعراض مخاطر الغازات المنبعثة من الأبقار
+                                        على المناخ، إلى التعرف على دور تقنيات حفظ وتخزين الكربون في إنقاذ الكوكب. اطلع
+                                        عن قرب وبالتفصيل على بعض أكثر الأحداث العلمية إثارة في عالمنا اليوم.
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+
+                        <div class="swiper-slide">
+                            <div class="single-slide">
+                                <div class="img-cont">
+                                    <img class="img-fluid w-100" src="img/workshop/thmub.png">
+                                    <div class="year-cont">
+                                        <i class="icon-plus"></i>9
+                                    </div>
+                                </div>
+                                <div class="desc-cont">
+                                    <h2 class="head-item myDesc">
+                                        قرية العلوم
+                                    </h2>
+                                    <div class="full-desc smallDesc">
+                                        قم بزيارة قرية العلوم واكتشف العديد من التجارب العلمية السهلة والمثيرة. شارك في
+                                        أنشطة في مختلف مجالات العلوم. يمكن للزائرون الصغار (أعمار الخمس سنوات فما فوق)
+                                        اختراع ألعابهم الخاصة واكتشاف العديد من الحقائق العلمية في إطار مرح ومسلي. إذا
+                                        كانت أعماركم تتعدى التسع سنوات، يمكنكم الاستمتاع بأنشطة وتجارب علمية مبتكرة
+                                        كصناعة مجسمات لأعضاء أجسادكم وأكلها !
+                                    </div>
+                                </div>
+                                <div class="show-more more-btn"><i class="icon-plus"></i></div>
+                            </div>
+                        </div>
+
+                    </div>
+
+
+                    <!-- Add Pagination -->
+                    <div class="swiper-pagination"></div>
+                    <div class="navigations ">
+                        <i class="nav-next icon-angle-right"></i>
+                        <i class="nav-prev icon-angle-left"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="location" class="location-section catch-scroll">
+        <div class="container-fluid ">
+            <div class="row ">
+                <div class="col-md">
+                    <div class="myDesc mb-3 text-center text-uppercase">أبوظبي</div>
+                    <iframe class="embed-responsive-item"
+                            src="https://www.google.com/maps/d/u/0/embed?mid=19VNN8PP9Wlb-Y7cDSXLxLN8JKlPmZX0W"
+                            height="480"></iframe>
+                </div>
+                <div class="col-md">
+                    <div class="myDesc mb-3 text-center text-uppercase">العين</div>
+                    <iframe class="embed-responsive-item"
+                            src="https://www.google.com/maps/d/u/0/embed?mid=1pyfk6GbdfgMGIec8W9DgIypCQnWO35Nk"
+                            height="480"></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="about-section catch-scroll">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-2 col-lg-2">
+                    <img class="img-fluid" src="img/logos/2.png">
+                </div>
+                <div class="col-md-4">
+                    <div class="wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                        <h2 class="item-main-title heading line-up mb-4">
+                            ما هي فعالية <br>
+                            مبتكر 2018 ؟
+                        </h2>
+                    </div>
+                </div>
+                <div class="col-md-6 ml-md-auto">
+                    <div class="smallDesc">
+                        فعالية مبتكر 2018 هي مبادرة استراتيجية تنفذها دائرة التعليم والمعرفة سنوياً، حيث تقوم بجمع
+                        المبتكرين من الأفراد، المؤسسات التعليمية، الجهات الحكومية وأصحاب الأعمال من القطاع الخاص في
+                        إمارة أبوظبي. وتعمل المبادرة على دعم أهداف الخطة الاستراتيجية للابتكار التي تهدف لجعل الإمارات
+                        ضمن الدول الأكثر ابتكاراً على مستوى العالم. وتستهدف الفعالية في دورتها الرابعة، التي تمتد على
+                        مدى أسبوع كامل، الفئة العمرية من 13 عاماً فما فوق على صعيد الدولة. وتستلهم فعاليات مبتكر 2018
+                        أنشطتها من مبدئ ’اصنعها بنفسك‘ حيث سيتم عرض المشاريع المبتكرة منزلياً من كافة أنحاء الدولة في
+                        مجالات الفن والتصميم، الاستدامة وعلوم الحياة، الفضاء، المحركات والميكانيكا، الروبوتات
+                        والإلكترونيات.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="registration-section">
+    </section>
+
+
+    <section class="about-section catch-scroll">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-2 col-lg-2">
+                    <img class="img-fluid" src="img/logos/4.png">
+                </div>
+                <div class="col-md-4">
+                    <div class="wow fadeIn" data-wow-delay=".6s" data-wow-duration=".6s">
+                        <h2 class="item-main-title heading line-up mb-4">
+                            ما هو مهرجان <br>
+                            أبوظبي للعلوم 2018 ؟
+                        </h2>
+                    </div>
+                </div>
+                <div class="col-md-6 ml-md-auto">
+                    <div class="smallDesc">
+                        مهرجان أبوظبي للعلوم هو مبادرة استراتيجية تنفذها دائرة التعليم والمعرفة سنوياً وهي تهدف للمساهمة
+                        في تطوير رأس المال البشري في قطاعي العلوم والتكنولوجيا، تماشياً مع خطة أبوظبي والاستراتيجية
+                        الوطنية للابتكار لدولة الإمارات العربية المتحدة. كما يهدف مهرجان أبوظبي للعلوم إلى إلهام جيل
+                        الناشئة في مجالات العلوم والتكنولوجيا لتشجيعهم على اختيار مسارات تعليمية ومهنية مستقبلية في
+                        مجالات العلوم والتكنولوجيا والهندسة والرياضيات. ويأتي مهرجان أبوظبي للعلوم في العام 2018 ليكون
+                        من أكبر مهرجانات العلوم في المنطقة، وسيقوم بعرض عدد من ورش العمل والأنشطة التفاعلية والتعليمية
+                        ويفتح أبوابه لزيارات المدارس خلال الفترات الصباحية ولكافة أفراد العائلة في الفترات المسائية.
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="registration-section">
+        <div class="container">
+            <h2 class="text-uppercase mb-5">هل أنت مبتكر ؟</h2>
+            <div class=" wow fadeInUp" data-wow-delay=".6s" data-wow-duration=".6s">
+                <a href="http://innovator.vpr.ae/" target="_blank" class="btn-reg">سجل الان</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="main-sponsors-section">
+    </section>
+
+</div>
+
+
+<footer>
+    <div class="container">
+        <div class="rights">
+            COPYRIGHT &copy; 2018 Department of education and knowledge
+        </div>
+    </div>
+</footer>
+
+
+<!-- to Top Button -->
+<a id="back-to-top" href="#" class="btn btn-Warning btn-sm back-to-top">
+    <span class="icon-angle-double-up"></span>
+</a>
+
+
+<!--jquery core v 3.2.1-->
+<script src="js/vendors/jquery-3.2.1.min.js"></script>
+<!-- bootstrap -->
+<script src="js/vendors/popper.min.js"></script>
+<script src="js/vendors/bootstrap.min.js"></script>
+<!-- nice scroll -->
+<script src="js/vendors/jquery.nicescroll.min.js"></script>
+<!-- smooth scroll -->
+<script src="js/vendors/jquery.smooth-scroll.min.js"></script>
+<!-- fancy box -->
+<script src="js/vendors/jquery.fancybox.min.js"></script>
+<script src="js/vendors/swiper.min.js"></script>
+<!-- wow animate -->
+<script src="js/vendors/wow.min.js"></script>
+<!-- my custom scripts -->
+<script src="js/scripts.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA-Gcr3KNachUj7cJopFOsPC7JyJ9y0aP4&callback=initMap">
+</script>
+
+
+</body>
+
+</html>
