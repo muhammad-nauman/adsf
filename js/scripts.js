@@ -528,169 +528,56 @@ $("body").niceScroll({
 //wow js
 new WOW().init();
 //end wow js
-let links = document.getElementsByClassName('CiTy')
-for (let i = 0; i < links.length; i++) {
-    links[i].addEventListener("click", () => City(links[i].innerHTML))
-}
-function City(CityValue) {
-    console.log(CityValue)
-    switch (CityValue) {
-        case 'ABU DHABI':
-        {
-            $('.abuDhabi').show();
-            $('.alAin').hide();
-            $('.alDhafra').hide();
-            $('.workshop-swipper-angles').show();
-            break;
 
+$(document).ready(function() {
+    $(document).on('click', '.city', function() {
+        $('.city-filter').text($(this).text());
+        $('.city-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        if($('.age-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validAgeSelection = $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
+                var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+                if(validAgeSelection || validWprkshops) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-        case 'AL AIN':
-        {
-            $('.abuDhabi').hide();
-            $('.alAin').show();
-            $('.alDhafra').hide();
-            $('.workshop-swipper-angles').show();
-            break;
+    })
 
+    $(document).on('click', '.age', function() {
+        $('.age-filter').text($(this).text());
+        $('.age-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        if($('.city-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
+                var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+                if(validCitySelection || validWprkshops) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-        case 'Al DHAFRA':
-        {
-            $('.abuDhabi').hide();
-            $('.alAin').hide();
-            $('.alDhafra').show();
-            $('.workshop-swipper-angles').show();
-            break;
-
+    })
+    $(document).on('click', '.workshop', function() {
+        $('.workshop-filter').text($(this).text());
+        $('.workshop-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        console.log($('.age-filter').data('class'));
+        if($('.city-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
+                var validAgeSelection =  $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'))
+                if(validCitySelection || validAgeSelection) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-    }
-}
-
-let Ages = document.getElementsByClassName('AgE')
-for (let i = 0; i < Ages.length; i++) {
-    Ages[i].addEventListener("click", () => age(Ages[i].innerHTML))
-}
-function age(ageValue) {
-    console.log(ageValue)
-    switch (ageValue) {
-        case 'All':
-        {
-            $('.aLL').show();
-            $('.two').hide();
-            $('.Nine').hide();
-            $('.Five').hide();
-            $('.fivePlus').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case '+2':
-        {
-            $('.aLL').hide();
-            $('.two').show();
-            $('.Nine').hide();
-            $('.Five').hide();
-            $('.fivePlus').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case '+5':
-        {
-            $('.aLL').hide();
-            $('.two').hide();
-            $('.Nine').hide();
-            $('.Five').show();
-            $('.fivePlus').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case '5+':
-        {
-            $('.aLL').hide();
-            $('.two').hide();
-            $('.Nine').hide();
-            $('.Five').hide();
-            $('.fivePlus').show();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case '+9':
-        {
-            $('.aLL').hide();
-            $('.two').hide();
-            $('.Nine').show();
-            $('.Five').hide();
-            $('.fivePlus').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-    }
-}
-
-let WorkShopss = document.getElementsByClassName('WorkShops')
-for (let i = 0; i < WorkShopss.length; i++) {
-    WorkShopss[i].addEventListener("click", () => WorkShops(WorkShopss[i].innerHTML))
-}
-function WorkShops(WorkshopValue) {
-    console.log(WorkshopValue)
-    switch (WorkshopValue) {
-        case 'SCIENCE':
-        {
-            $('.science').show();
-            $('.Technology').hide();
-            $('.Engineering').hide();
-            $('.Mathematices').hide();
-            $('.artAndDesign').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case 'TECHNOLOGY':
-        {
-            $('.science').hide();
-            $('.Technology').show();
-            $('.Engineering').hide();
-            $('.Mathematices').hide();
-            $('.artAndDesign').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case 'ENGINEERING':
-        {
-            $('.science').hide();
-            $('.Technology').hide();
-            $('.Engineering').show();
-            $('.Mathematices').hide();
-            $('.artAndDesign').hide();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case 'ART AND DESIGN':
-        {
-            $('.science').hide();
-            $('.Technology').hide();
-            $('.Engineering').hide();
-            $('.Mathematices').hide();
-            $('.artAndDesign').show();
-            $('.workshop-swipper-angles').show();
-            break;
-
-        }
-        case 'MATHEMATICS':
-        {
-            $('.science').hide();
-            $('.Technology').hide();
-            $('.workshop-swipper-angles').hide();
-            $('.Engineering').hide();
-            $('.Mathematices').show();
-            $('.artAndDesign').hide();
-            break;
-
-        }
-    }
-}
+    })
+})
