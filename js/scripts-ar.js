@@ -528,172 +528,56 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
     //wow js
     new WOW().init();
     //end wow js
-    let links = document.getElementsByClassName('CiTy')
-    for (let i = 0; i < links.length; i++) {
-        links[i].addEventListener("click", () => City(links[i].innerHTML))
-    }
-    debugger
-    function City(CityValue) {
-        console.log(CityValue)
-        switch (CityValue) {
-            case 'أبو ظبي':
-            {
-                $('.abuDhabi').show();
-                $('.alAin').hide();
-                $('.alDhafra').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'العين':
-            {
-                $('.abuDhabi').hide();
-                $('.alAin').show();
-                $('.alDhafra').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'الظفرة':
-            {
-                $('.abuDhabi').hide();
-                $('.alAin').hide();
-                $('.alDhafra').show();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
+    
+$(document).ready(function() {
+    $(document).on('click', '.city', function() {
+        $('.city-filter').text($(this).text());
+        $('.city-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        if($('.age-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validAgeSelection = $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
+                var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+                if(validAgeSelection || validWprkshops) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-    }
+    })
 
-    let Ages = document.getElementsByClassName('AgE')
-    for (let i = 0; i < Ages.length; i++) {
-        Ages[i].addEventListener("click", () => age(Ages[i].innerHTML))
-    }
-    debugger
-    function age(ageValue) {
-        console.log(ageValue)
-        switch (ageValue) {
-            case 'للكل':
-            {
-                $('.aLL').show();
-                $('.two').hide();
-                $('.Nine').hide();
-                $('.Five').hide();
-                $('.fivePlus').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case '+2':
-            {
-                $('.aLL').hide();
-                $('.two').show();
-                $('.Nine').hide();
-                $('.Five').hide();
-                $('.fivePlus').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case '+5':
-            {
-                $('.aLL').hide();
-                $('.two').hide();
-                $('.Nine').hide();
-                $('.Five').show();
-                $('.fivePlus').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case '5+':
-            {
-                $('.aLL').hide();
-                $('.two').hide();
-                $('.Nine').hide();
-                $('.Five').hide();
-                $('.fivePlus').show();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case '+9':
-            {
-                $('.aLL').hide();
-                $('.two').hide();
-                $('.Nine').show();
-                $('.Five').hide();
-                $('.fivePlus').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
+    $(document).on('click', '.age', function() {
+        $('.age-filter').text($(this).text());
+        $('.age-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        if($('.city-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
+                var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+                if(validCitySelection || validWprkshops) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-    }
-
-    let WorkShopss = document.getElementsByClassName('WorkShops')
-    for (let i = 0; i < WorkShopss.length; i++) {
-        WorkShopss[i].addEventListener("click", () => WorkShops(WorkShopss[i].innerHTML))
-    }
-    debugger
-    function WorkShops(WorkshopValue) {
-        console.log(WorkshopValue)
-        switch (WorkshopValue) {
-            case 'العلوم':
-            {
-                $('.science').show();
-                $('.Technology').hide();
-                $('.Engineering').hide();
-                $('.Mathematices').hide();
-                $('.artAndDesign').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'التقنية':
-            {
-                $('.science').hide();
-                $('.Technology').show();
-                $('.Engineering').hide();
-                $('.Mathematices').hide();
-                $('.artAndDesign').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'الهندسة':
-            {
-                $('.science').hide();
-                $('.Technology').hide();
-                $('.Engineering').show();
-                $('.Mathematices').hide();
-                $('.artAndDesign').hide();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'الفنون والتصميم':
-            {
-                $('.science').hide();
-                $('.Technology').hide();
-                $('.Engineering').hide();
-                $('.Mathematices').hide();
-                $('.artAndDesign').show();
-                $('.workshop-swipper-angles').show();
-                break;
-
-            }
-            case 'الرياضيات':
-            {
-                $('.science').hide();
-                $('.Technology').hide();
-                $('.Engineering').hide();
-                $('.Mathematices').show();
-                $('.artAndDesign').hide();
-                $('.workshop-swipper-angles').hide();
-                break;
-
-            }
+    })
+    $(document).on('click', '.workshop', function() {
+        $('.workshop-filter').text($(this).text());
+        $('.workshop-filter').attr('data-class', $(this).data('class'));
+        $('.swiper-slide').hide();
+        console.log($('.age-filter').data('class'));
+        if($('.city-filter').data('class') || $('.workshop-filter').data('class')) {
+            $('.' + $(this).data('class')).map(function () {
+                var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
+                var validAgeSelection =  $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'))
+                if(validCitySelection || validAgeSelection) {
+                    $(this).show();
+                }
+            });
+        } else {
+            $('.' + $(this).data('class')).show();
         }
-    }
+    })
+})
