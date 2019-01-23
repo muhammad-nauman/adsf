@@ -530,6 +530,9 @@ new WOW().init();
 //end wow js
 
 $(document).ready(function() {
+    $('.wksp-icon-angle-right').on('click', function () {
+        console.log(32332, $('.workshop-wrapper').find('.swiper-slide').is(':visible'))
+    });
     $(document).on('click', '.city', function() {
         $('.city-filter').text($(this).text());
         $('.city-filter').attr('data-class', $(this).data('class'));
@@ -576,6 +579,7 @@ $(document).ready(function() {
                 }
             });
         } else {
+            console.log(23432, $(this).data('class'))
             $('.' + $(this).data('class')).show();
         }
     })
