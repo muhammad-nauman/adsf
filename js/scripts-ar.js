@@ -530,63 +530,71 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
     //end wow js
     
     $(document).ready(function() {
+        $('.wksp-icon-angle-right').on('click', function () {
+            console.log(32332, $('.workshop-wrapper').find('.swiper-slide').is(':visible'))
+        });
         $(document).on('click', '.city', function() {
             $('.city-filter').text($(this).text());
-            $('.city-filter').attr('data-class', $(this).data('class'));
+            $('.city-filter').attr('data-class', $(this).attr('data-class'));
             $('.workshop-wrapperRtl').find('.swiper-slide').hide();
-            if($('.age-filter').data('class') && $('.workshop-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validAgeSelection = $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
-                    var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'));
+            if($('.age-filter').attr('data-class') && $('.workshop-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validAgeSelection = $('.age-filter').attr('data-class') && $(this).hasClass($('.age-filter').attr('data-class'));
+                    var validWprkshops =  $('.workshop-filter').attr('data-class') && $(this).hasClass($('.workshop-filter').attr('data-class'));
                     if(validAgeSelection && validWprkshops) {
                         $(this).show();
                     }
                 });
-            } else if($('.age-filter').data('class') || $('.workshop-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validAgeSelection = $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
-                    var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'));
+            } else if($('.age-filter').attr('data-class') || $('.workshop-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validAgeSelection = $('.age-filter').attr('data-class') && $(this).hasClass($('.age-filter').attr('data-class'));
+                    var validWprkshops =  $('.workshop-filter').attr('data-class') && $(this).hasClass($('.workshop-filter').attr('data-class'));
                     if(validAgeSelection || validWprkshops) {
                         $(this).show();
                     }
                 });
             } else {
-                $('.' + $(this).data('class')).show();
+                $('.' + $(this).attr('data-class')).show();
             }
         })
     
         $(document).on('click', '.age', function() {
             $('.age-filter').text($(this).text());
-            $('.age-filter').attr('data-class', $(this).data('class'));
+            $('.age-filter').attr('data-class', $(this).attr('data-class'));
             $('.workshop-wrapperRtl').find('.swiper-slide').hide();
-            if($('.city-filter').data('class') && $('.workshop-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
-                    var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+            console.log($('.city-filter').attr('data-class'), $('.workshop-filter').attr('data-class'))
+            if($('.city-filter').attr('data-class') && $('.workshop-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validCitySelection = $('.city-filter').attr('data-class') && $(this).hasClass($('.city-filter').attr('data-class'));
+                    var validWprkshops =  $('.workshop-filter').attr('data-class') && $(this).hasClass($('.workshop-filter').attr('data-class'))
+                    console.log(validCitySelection, validWprkshops)
                     if(validCitySelection && validWprkshops) {
+                        console.log('here in both selected for age')
                         $(this).show();
                     }
                 });
-            } else if($('.city-filter').data('class') || $('.workshop-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
-                    var validWprkshops =  $('.workshop-filter').data('class') && $(this).hasClass($('.workshop-filter').data('class'))
+            } else if($('.city-filter').attr('data-class') || $('.workshop-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validCitySelection = $('.city-filter').attr('data-class') && $(this).hasClass($('.city-filter').attr('data-class'));
+                    var validWprkshops =  $('.workshop-filter').attr('data-class') && $(this).hasClass($('.workshop-filter').attr('data-class'))
                     if(validCitySelection || validWprkshops) {
                         $(this).show();
+                        console.log('here in 1 selected for age')
                     }
                 });
             } else {
-                $('.' + $(this).data('class')).show();
+                console.log(23432, $(this).attr('data-class'))
+                $('.' + $(this).attr('data-class')).show();
             }
         })
         $(document).on('click', '.workshop', function() {
             $('.workshop-filter').text($(this).text());
-            $('.workshop-filter').attr('data-class', $(this).data('class'));
+            $('.workshop-filter').attr('data-class', $(this).attr('data-class'));
             $('.workshop-wrapperRtl').find('.swiper-slide').hide();
-            if($('.city-filter').data('class') && $('.age-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
-                    var validAgeSelection =  $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
+            if($('.city-filter').attr('data-class') && $('.age-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validCitySelection = $('.city-filter').attr('data-class') && $(this).hasClass($('.city-filter').attr('data-class'));
+                    var validAgeSelection =  $('.age-filter').attr('data-class') && $(this).hasClass($('.age-filter').attr('data-class'));
                     console.log(validCitySelection, validAgeSelection)
                     if(validCitySelection && validAgeSelection) {
                         $(this).show();
@@ -595,10 +603,10 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
                         $(this).hide();
                     }
                 });
-            } else if($('.city-filter').data('class') || $('.age-filter').data('class')) {
-                $('.' + $(this).data('class')).map(function () {
-                    var validCitySelection = $('.city-filter').data('class') && $(this).hasClass($('.city-filter').data('class'));
-                    var validAgeSelection =  $('.age-filter').data('class') && $(this).hasClass($('.age-filter').data('class'));
+            } else if($('.city-filter').attr('data-class') || $('.age-filter').attr('data-class')) {
+                $('.' + $(this).attr('data-class')).map(function () {
+                    var validCitySelection = $('.city-filter').attr('data-class') && $(this).hasClass($('.city-filter').attr('data-class'));
+                    var validAgeSelection =  $('.age-filter').attr('data-class') && $(this).hasClass($('.age-filter').attr('data-class'));
                     console.log(validCitySelection, validAgeSelection)
                     if(validCitySelection || validAgeSelection) {
                         $(this).show();
@@ -609,7 +617,7 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
                 });
             } else {
                 console.log('here')
-                $('.' + $(this).data('class')).show();
+                $('.' + $(this).attr('data-class')).show();
             }
         })
     })
