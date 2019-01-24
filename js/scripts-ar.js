@@ -619,5 +619,12 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
                 console.log('here')
                 $('.' + $(this).attr('data-class')).show();
             }
-        })
+        });
+        
+        $(document).on('click', '.reset-filter', function() {
+            $('.workshop-filter').text('تصفية حسب ورش العمل');
+            $('.city-filter').text('تصفية حسب المدينة');
+            $('.age-filter').text('تصفية حسب العمر');
+            $('.workshop-wrapperRtl').find('.swiper-slide').show();
+        });
     })

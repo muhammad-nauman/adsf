@@ -15746,6 +15746,7 @@ span.wpcf7-not-valid-tip {
 /* line 84, ../_sass/_layout.scss */
 .shows-section .swiper-container .single-slide .img-cont {
     position: relative;
+    max-height: 209px;
 }
 
 /* line 86, ../_sass/_layout.scss */
@@ -16608,6 +16609,9 @@ span.wpcf7-not-valid-tip {
 
 .banner-img-fluid{
     min-width: 100%;
+}
+.img-cont > .img-fluid {
+    height: 209px;
 }
 @media (min-width: 1200px) {
 .banner-img-fluid{
