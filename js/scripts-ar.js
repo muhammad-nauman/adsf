@@ -622,9 +622,9 @@ var swiperRtl = new Swiper('.interactiv-wrapperRtl', {
         });
         
         $(document).on('click', '.reset-filter', function() {
-            $('.workshop-filter').text('تصفية حسب ورش العمل');
-            $('.city-filter').text('تصفية حسب المدينة');
-            $('.age-filter').text('تصفية حسب العمر');
+            $('.workshop-filter').text('التصنيف حسب الفئة');
+            $('.city-filter').text('التصنيف حسب المدينة');
+            $('.age-filter').text('التصنيف حسب العمر');
             $('.workshop-wrapperRtl').find('.swiper-slide').show();
         });
     })
