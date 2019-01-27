@@ -622,7 +622,7 @@ $(document).ready(function() {
     })
 
     $(document).on('click', '.reset-filter', function() {
-        $('.workshop-filter').text('FILTER BY WORKSHOPS');
+        $('.workshop-filter').text('FILTER BY CATEGORIES');
         $('.city-filter').text('FILTER BY CITY');
         $('.age-filter').text('FILTER BY AGE');
         $('.workshop-wrapper').find('.swiper-slide').show();
